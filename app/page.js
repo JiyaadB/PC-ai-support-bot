@@ -105,10 +105,10 @@ export default function Home() {
             borderBottom="1px solid #ccc" // Border between header and body
           >
             <Box display="flex" alignItems="center">
-              <Avatar sx={{ bgcolor: '#e0e0e0', color: '#000' }}>S</Avatar>
+              <Avatar sx={{ bgcolor: '#e0e0e0', color: '#000' }}>J</Avatar>
               <Box ml={2}>
                 <Typography variant="subtitle1" fontWeight="bold">PC Part Picker Support</Typography>
-                <Typography variant="body2" color="textSecondary">shainelomenario@gmail.com</Typography>
+                <Typography variant="body2" color="textSecondary">jiyaadbhuiyan@gmail.com</Typography>
               </Box>
             </Box>
           </Box>
